@@ -5,15 +5,15 @@
 ## AIM :
 To perform log transformation on international airline passenger data.
 ## ALGORITHM :
-### STEP 1: 
+#### STEP 1: 
 Import the required packages like pandas and numpy
-### STEP 2:
+#### STEP 2:
 Read the data using the pandas
-### STEP 3: 
+#### STEP 3: 
 Perform the data preprocessing if needed and apply log transformation.
-### STEP 4: 
+#### STEP 4: 
 Plot the data according to need, before and after log transformation.
-### STEP 5: 
+#### STEP 5: 
 Display the overall results.
 
 ## PROGRAM :
